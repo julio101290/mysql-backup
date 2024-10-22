@@ -1,5 +1,5 @@
 {
-    "name": "ramazancetinkaya/mysql-backup",
+    "name": "julio101290/mysql-backup",
     "description": "A PHP library for backing up and restoring MySQL databases",
     "type": "library",
     "keywords": ["php", "pdo", "phpmailer", "mysql", "database", "backup", "restore"],
@@ -9,6 +9,9 @@
             "name": "Ramazan Çetinkaya",
             "email": "ramazancetinkayadev@hotmail.com",
             "homepage": "https://github.com/ramazancetinkaya"
+
+            "name": "Julio Leyva",
+            "email": "juliocesarleyvarodriguez@hotmail.com"
         }
     ],
     "require": {
