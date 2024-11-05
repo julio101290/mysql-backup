@@ -1,9 +1,6 @@
 <h1 align="center">MySQL Backup & Restore Library</h1>
 
-[![License](https://img.shields.io/github/license/ramazancetinkaya/mysql-backup)](https://github.com/ramazancetinkaya/mysql-backup/blob/master/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/ramazancetinkaya/mysql-backup)](https://github.com/ramazancetinkaya/mysql-backup/issues)
-[![GitHub stars](https://img.shields.io/github/stars/ramazancetinkaya/mysql-backup)](https://github.com/ramazancetinkaya/mysql-backup/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/ramazancetinkaya/mysql-backup)](https://github.com/ramazancetinkaya/mysql-backup/network)
+[![Latest Stable Version](https://poser.okvpn.org/julio101290/mysql-backup/v/stable)](https://packagist.org/packages/julio101290/mysql-backup) [![Total Downloads](https://poser.okvpn.org/julio101290/mysql-backup/downloads)](https://packagist.org/packages/julio101290/mysql-backup) [![Latest Unstable Version](https://poser.okvpn.org/julio101290/mysql-backup/v/unstable)](https://packagist.org/packages/julio101290/mysql-backup) [![License](https://poser.okvpn.org/julio101290/mysql-backup/license)](https://packagist.org/packages/julio101290/mysql-backup)
 
 <p align="center">An update with the necessary configuration settings for sending emails via PHPMailer is coming soon. Stay tuned.</p>
 
